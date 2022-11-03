@@ -1,2 +1,2 @@
 # Codechef_sol
-#I like coding, and I dont have anything else to add. SO WHY NOT!!
+I like CP, and I dont have anything else to add. SO WHY NOT!!
